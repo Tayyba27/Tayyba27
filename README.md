@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyba27&label=Profile%20views&color=0e75b6&style=flat" alt="tayyba27" /> </p>
 
-- 🔭 I’m currently working on **Learn Data Science Using Python**
+- 🔭 I’m currently working on **Data Structure and Algorithms**
 
 - 🌱 I’m currently learning **Machine Learning , Artificial Intelligence , Data Structure and Algorithms**
 
