@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tayaba Anwer</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan ,All coding projects are built from the ground up , from planning and designing all the way to solving real-world problem with code</h3>
-
+<h3 align="center">A passionate Software Engineer from Pakistan. I create a lot of coding projects,All coding projects are built from the ground up,from planning and designing all the way to solving real-world problem with code</h3>
+<img align="right" alt= "coding" width = "400"src="https://quotefancy.com/media/wallpaper/3840x2160/7066557-Linus-Torvalds-Quote-Bad-programmers-worry-about-the-code-Good.jpg">
 
 <p align="left"> <a href="https://twitter.com/tayyaba anwer" target="blank"><img src="https://img.shields.io/twitter/follow/tayyaba anwer?logo=twitter&style=for-the-badge" alt="tayyaba anwer" /></a> </p>
 
