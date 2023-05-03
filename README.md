@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tayaba Anwer</h1>
+![github1](https://user-images.githubusercontent.com/100337978/235864148-6e79cd60-ba72-4bfc-8957-993100f63cd1.jpg)
+
+
+<h1 align="center">Hi 👋, I'm Tayaba Anwer</h1>        
 <h3 align="center">A passionate Software Engineer from Pakistan. I create a lot of coding projects,All coding projects are built from the ground up,from planning and designing all the way to solving real-world problem with code</h3>
 
 
