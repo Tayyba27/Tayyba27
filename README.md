@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/tayyaba anwer" target="blank"><img src="https://img.shields.io/twitter/follow/tayyaba anwer?logo=twitter&style=for-the-badge" alt="tayyaba anwer" /></a> </p>
 
-- 🔭 I’m currently working on ** Machine Learning Algorithms**
+- 🔭 I’m currently working on **Machine Learning Algorithms**
 
 - 🌱 I’m currently learning **Data Science Project**
 
-- 👯 I’m looking to collaborate on **Prrogramming**
+- 👯 I’m looking to collaborate on **Programming**
 
 - 💬 Ask me about **Data Analytics , Data Visualization, Real-World problem solving**
 
