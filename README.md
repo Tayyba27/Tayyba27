@@ -2,16 +2,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Tayaba Anwer</h1>        
-<h3 align="center">A passionate Software Engineer from Pakistan. I create a lot of coding projects,All coding projects are built from the ground up,from planning and designing all the way to solving real-world problem with code</h3>
+<h3 align="center">A passionate Data Scientist from Pakistan. I create a lot of coding projects,All coding projects are built from the ground up,from planning and designing all the way to solving real-world problem with code</h3>
 
 
 <p align="left"> <a href="https://twitter.com/tayyaba anwer" target="blank"><img src="https://img.shields.io/twitter/follow/tayyaba anwer?logo=twitter&style=for-the-badge" alt="tayyaba anwer" /></a> </p>
 
-- 🔭 I’m currently working on **Data Structure and Algorithms**
+- 🔭 I’m currently working on ** Machine Learning Algorithms**
 
-- 🌱 I’m currently learning **Leet Code**
+- 🌱 I’m currently learning **Data Science Project**
 
-- 👯 I’m looking to collaborate on **Leet Code**
+- 👯 I’m looking to collaborate on **Prrogramming**
 
 - 💬 Ask me about **Data Analytics , Data Visualization, Real-World problem solving**
 
